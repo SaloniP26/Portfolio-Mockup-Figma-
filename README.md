@@ -27,7 +27,3 @@ To view the mockup:
 ## Credits
 
 Designed by: Saloni Pawar ![Designer Icon](https://img.icons8.com/color/48/000000/design.png)
-
-## License
-
-This project is licensed under the [MIT License ![License Icon](https://img.icons8.com/fluent/48/000000/open-source.png)](license_link).
